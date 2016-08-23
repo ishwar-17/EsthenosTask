@@ -1,0 +1,114 @@
+			.topnav{
+				border-radius:0px;
+				border-bottom:5px solid orange;
+				background: linear-gradient(#b3b3b3 , #000000);
+			}
+			.navbar-inverse .navbar-nav>li>a {
+				color:orange;
+				font-size:16px;
+			}
+			.navbar-inverse .navbar-brand {
+				color:orange;
+				font-size:28px;
+				font-weight:bold;
+				font-style:italic;
+			}
+			.textname{
+				border-bottom:4px solid orange;
+				text-align:center;
+				padding-bottom:2%;
+				font-size:20px;
+				font-weight: 700;
+			}
+			.investtext{
+				padding-left: 6%;
+			    padding-right: 6%;
+			    color: orange;
+			    font-size: 17px;
+			    background-color: #FFF;
+			    outline: none;
+			    border-radius:12px;
+			}
+			.investtext:hover{
+				background-color:#fff;
+				color:orange;
+			}
+			.contentname{
+				color:#09924B;
+				font-size:15px;
+				font-weight: 700;
+				
+			}
+			.contenthead{
+				font-size:17px;
+				font-weight: 700;
+			}
+			#tableinvest{
+				display:none;
+			}
+			#tableinvest1{
+				display:none;
+			}
+			#tableinvest2{
+				display:none;
+			}
+			.investplan{
+				font-size:17px;
+			}
+			.investplan1{
+				font-size:17px;
+			}
+			.investplan2{
+				font-size:17px;
+			}
+			.investcol{
+				box-shadow: 0px 0px 1px 0px #404040;
+			    background-color: rgba(158, 158, 158, 0.1);
+			    border-right: 3px solid #a6a6a6;
+			}
+			.contentitem{
+				color:#ffa64d;
+				font-size:16px;
+			}
+			.contentvalue{
+				font-size:14px;
+				color:#0d0d0d;
+				font-weight:600;
+			}
+			.usercontent{
+				border:1px solid #0d0d0d;
+				 background-color: rgba(158, 158, 158, 0.1);
+			}
+			.nameitem{
+				font-size:20px;
+				font-weight:700;
+
+			}
+			.completerig{
+				color:#ff4dc4;
+				font-size:17px;
+				font-style:italic;
+			}
+			.completerig:hover{
+				color:#ff4dc4;
+			}
+			.downarrow{
+				font-size:22px;
+				color:#002699;
+			}
+			.navbar-inverse .navbar-toggle .icon-bar {
+			    background-color: #fff;
+			}
+
+			.navbar-inverse .navbar-toggle {
+			    border-color: brown;
+			    background-color: brown;
+			}
+			.navbar-inverse .navbar-toggle:hover {
+			    border-color: black;
+			    background-color: brown;
+			}
+			.contentdrop{
+				    background-color: #ccc;
+					border: 1px solid orange;
+			}
